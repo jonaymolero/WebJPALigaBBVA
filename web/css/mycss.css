@@ -1,0 +1,33 @@
+#dni{
+    border-bottom: 1px solid #90caf9;
+}
+
+#nombre{
+    border-bottom: 1px solid #90caf9;
+}
+
+#gLocal{
+    border-bottom: 1px solid #90caf9;
+}
+
+#gVisitante{
+    border-bottom: 1px solid #90caf9;
+}
+
+#tituloApuestas{
+    padding: 5px 0px;
+}
+
+table img{
+    height:100px;
+    width:100px;
+}
+#toast-container{
+    top: auto !important;
+    bottom: 10%;
+    right: 40%;
+}
+
+.separacionlateral{
+    margin-left: 1em;
+}
